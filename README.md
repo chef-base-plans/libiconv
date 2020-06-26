@@ -8,7 +8,7 @@
 
 ## Type of Package
 
-Binary package
+Library package
 
 ### Use as Dependency
 
@@ -33,11 +33,11 @@ To install this plan, you should run the following commands to install it.
 `hab pkg install core/libiconv`
 
 > » Installing core/libiconv
->
+
 > ☁ Determining latest version of core/libiconv in the 'stable' channel
->
+
 > → Using core/libiconv/1.14/20200306010416
->
+
 > ★ Install of core/libiconv/1.14/20200306010416 complete with 0 new packages installed. 
 
 #### Viewing library files
@@ -52,11 +52,11 @@ To view the library files you must first search for them with habitat.
 ls /hab/pkgs/core/libiconv/1.14/20200306010416
 ```
 > bin/
->
+
 > include/
->
+
 > lib/
->
+
 > share/
 
 #### Additional Notes
